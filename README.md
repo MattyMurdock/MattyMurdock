@@ -1,12 +1,9 @@
-# 💫 About Me:
-Soy un programador bien raro porque sé algunas cosas aplico algunas cosas y otras cosas no las sé hacer pero las hago.<br>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MattyMurdock&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MattyMurdock&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MattyMurdock&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MattyMurdock&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
